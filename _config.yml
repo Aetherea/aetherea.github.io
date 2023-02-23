@@ -16,21 +16,15 @@
 
 title: "Welcome to Aetherea"
 title_separator: "-"
-subtitle: "Issues are temporary"
+subtitle: "A magical world"
 email: "czerkas.tim@student.dhbw-karlsruhe.de"
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-github_username: Aetherea
 minimal_mistakes_skin: dark
 search: true
 repository: "Aetherea/aetherea.github.io"
-comments:
-  provider: "utterances"
-  utterances:
-    theme: "github-dark"
-    issue_term: "pathname"
 
 # Build settings
 markdown: kramdown
@@ -41,8 +35,6 @@ paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: "Europe/Berlin" # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-include:
-  - _pages
 
 plugins:
   - jekyll-paginate
