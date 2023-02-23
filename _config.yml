@@ -25,6 +25,11 @@ description: >- # this means to ignore newlines until "baseurl:"
 minimal_mistakes_skin: dark
 search: true
 repository: "Aetherea/aetherea.github.io"
+comments:
+  provider: "utterances"
+  utterances:
+    theme: "github-dark"
+    issue_term: "pathname"
 
 # Build settings
 markdown: kramdown
