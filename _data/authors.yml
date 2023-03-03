@@ -1,0 +1,23 @@
+Tim Czerkas:
+  name        : "Tim Czerkas"
+  bio         : "Developer"
+  avatar      : "/images/wizard1.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:czerkas.tim@student.dh-karlsuhe.de"
+    - label: "Github"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/TimCzks"
+      
+Fabian Albrecht:
+  name        : "Fabian Albrecht"
+  bio         : "Developer"
+  avatar      : "/images/wizard1.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:albrecht.fabian@student.dh-karlsuhe.de"
+    - label: "Github"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Konti"
