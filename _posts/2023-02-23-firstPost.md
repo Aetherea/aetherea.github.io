@@ -1,6 +1,7 @@
 ---
 title: "Aetherea 01 - Game Concept"
 date: 2023-03-03
+author: Tim Czerkas
 ---
 
 Hello Adventurers,
