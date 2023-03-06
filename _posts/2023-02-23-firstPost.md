@@ -9,7 +9,7 @@ Hello Adventurers,
 welcome to our first blog post about the development of Aetherea. This week, we'll present to you our game concept.
 We started with a touching story and worked our way through a combat system, the enemies and the automatic level generation. For starters, you can read the introduction of the storyline here:
 
-*In the magical world of Aetherea, there lived a young magician named Alara. She was a talented and ambitious mage who had been studying the art of magic for as long as she could remember. Alara had always dreamed of finding a powerful artifact that was said to grant the user immense magical abilities. She knew that many other mages and adventurers were also searching for this artifact, but she was determined to find it first.*
+*In the magical world of Aetherea, there lived a young magician named Alara. He was a talented and ambitious mage who had been studying the art of magic for as long as he could remember. Alara had always dreamed of finding a powerful artifact that was said to grant the user immense magical abilities. He knew that many other mages and adventurers were also searching for this artifact, but he was determined to find it first.*
 
 Combat in Aetherea is a mix of melee attacks and magical spells, and players will need to carefully choose which to use depending on the situation.
 There are several types of magic spells in Aetherea, each with its own unique properties. For example, fireball is a powerful offensive spell that deals a large amount of damage to enemies in a small area. Lightning bolt, on the other hand, is a fast, focused spell that can deal a significant amount of damage to a single target. Defensive spells like shield can help you avoid damage and move through levels unnoticed.
