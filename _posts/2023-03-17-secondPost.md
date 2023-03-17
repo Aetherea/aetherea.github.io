@@ -1,5 +1,5 @@
 ---
-title: "Aetherea 01 - Progess and Demo scope"
+title: "Aetherea 02 - Progess and Demo scope"
 date: 2023-03-17
 author: Fabian Albrecht
 ---
