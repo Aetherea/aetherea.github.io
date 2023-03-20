@@ -5,7 +5,7 @@ Tim Czerkas:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:czerkas.tim@student.dh-karlsuhe.de"
+      url: "mailto:czerkas.tim@student.dh-karlsruhe.de"
     - label: "Github"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/TimCzks"
@@ -17,7 +17,7 @@ Fabian Albrecht:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:albrecht.fabian@student.dh-karlsuhe.de"
+      url: "mailto:albrecht.fabian@student.dh-karlsruhe.de"
     - label: "Github"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Konti08"
