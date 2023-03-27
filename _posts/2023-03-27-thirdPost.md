@@ -6,7 +6,8 @@ author: Tim Czerkas
 
 ### Hello Adventurers,
 
-the presentation of our demo was a real success. Today, we want to share with you information about how you can access our project as a music student, what you can expect, when working for our project and how much time we spent so far.
+
+the presentation of our demo was a real success. Today, we want to share some information with you about how you can access our project as a music student, what you can expect when working for our project and how much time we spent so far.
 
 ### Teaser of our project
 
@@ -14,11 +15,11 @@ Here is a small video, where you can see how our game looks so far.
 <video src="https://user-images.githubusercontent.com/85937078/228000912-3971d500-29e7-4634-92d0-9470a7736a74.mp4" controls="controls" style="max-width: 730px;">
 </video>
 
-Coming up next is some UI for the player, so that you can properly start and also pause the game. Also the player's abilities will be enhanced by melee combat.
+Coming up next is some UI for the player, so that you can properly start and also pause the game. Furthermore the player's abilities will be enhanced by melee combat.
 
 ### For the music students
 
-If you have decided to contribute to our project with your music, pls contact us on discord. For the music itself, we think of some background music that supports the atmosphere. This will include different songs for different enemies, e.g. something epic in a boss fight or something chill, when no enemy is around. So far, we will have skeletons, spiders and a golem and dragon as bosses, but the list of enemies keeps growing.
+If you have decided to contribute to our project with your music, please contact us on discord. For the music itself, we thought of some background music that supports the atmosphere while playing. This will include different songs for different enemies, e.g. something epic in a boss fight or something chill, when no enemy is around. So far, we will have skeletons, spiders and a golem and dragon as bosses, but the list of enemies keeps growing.
 
 #### How to add your music to our game?
 We try to achieve an easy way to add the music to the game, which means ideally you would just have to drag specific songs onto the Scriptable Objects we made with unity.
