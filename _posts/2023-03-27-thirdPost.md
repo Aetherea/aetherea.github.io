@@ -11,7 +11,7 @@ the presentation of our demo was a real success. Today, we want to share with yo
 ### Teaser of our project
 
 Here is a small video, where you can see how our game looks so far. 
-<video src="images/gameDemo.mp4" controls="controls" style="max-width: 700px;">
+<video src="https://user-images.githubusercontent.com/85937078/228000912-3971d500-29e7-4634-92d0-9470a7736a74.mp4" controls="controls" style="max-width: 730px;">
 </video>
 
 Coming up next is some UI for the player, so that you can properly start and also pause the game. Also the player's abilities will be enhanced by melee combat.
