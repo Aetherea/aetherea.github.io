@@ -11,7 +11,7 @@ the presentation of our demo was a real success. Today, we want to share with yo
 ### Teaser of our project
 
 Here is a small video, where you can see how our game looks so far. 
-<video src="https://github.com/Aetherea/aetherea.github.io/blob/5f5888fbfbfba16cb8437d3cf58edd2f58b0397f/images/gameDemo.mp4" controls="controls" style="max-width: 700px;">
+<video src="images/gameDemo.mp4" controls="controls" style="max-width: 700px;">
 </video>
 
 Coming up next is some UI for the player, so that you can properly start and also pause the game. Also the player's abilities will be enhanced by melee combat.
@@ -32,6 +32,7 @@ The whole project is up on [gitHub](https://github.com/Aetherea/Aetherea-Game), 
 Since we estimated the time we will spend each week, here is a short summary of how we did so far:
 - Tim: 23.25 hours over three weeks, which results in 7.75 hours / week
 - Fabian: 26.45 hours over three weeks, which results in 8.82 hours / week
+
 As a conclusion, the goal of 7-8 hours per week is reached by both of us and we made great progress. The tool we are using to track our time is git projects, where we open issues for everything we do and track our time on those tasks.
 
 Thats it for this weeks blog, I hope you enjoyed the summary of our game and the little teaser. Hopefully we will have some music too very soon.
