@@ -27,7 +27,7 @@ Scriptable Objects are a Unity-specific concept that allows developers to create
 
 We use scriptable objects the properties of all the player, enemies and spells in the game. This include properties like the health, damage, speed, etc. of the different entities. 
 These scriptable objects allow us to easily modify the properties of the objects without having to modify code directly. Making it easier to balance the game and make changes as needed. Since scriptable objects are are serializable and can be saved to disk, it is possible to share them between different scenes in the game. Here are some examples how we use scriptable objects in our game: 
-|  Player  | Enemy  |
+|  Player       | Enemy         |
 | ------------- | ------------- |
 | ![](/architecture/Player.svg)  | ![](/architecture/Enemy.svg)  |
 
