@@ -29,7 +29,7 @@ We use scriptable objects the properties of all the player, enemies and spells i
 These scriptable objects allow us to easily modify the properties of the objects without having to modify code directly. Making it easier to balance the game and make changes as needed. Since scriptable objects are are serializable and can be saved to disk, it is possible to share them between different scenes in the game. Here are some examples how we use scriptable objects in our game: 
 |  Player       | Enemy         |
 | ------------- | ------------- |
-| ![](/architecture/Player.svg)  | ![](/architecture/Enemy.svg)  |
+| ![](/architecture/Player.svg) | ![](/architecture/Enemy.svg)  |
 
 ### Setup of new entities
 
