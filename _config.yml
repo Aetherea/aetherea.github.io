@@ -55,6 +55,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Aetherea"
+    - label: "Game Repository"
+      icon: "fas fa-fw fa-gamepad"
+      url: "https://github.com/Aetherea/Aetherea-Game"
 
 defaults:
   # _posts
