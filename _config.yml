@@ -32,7 +32,7 @@ comments:
     issue_term: "pathname"
 
 # Build settings
-markdown: kramdown
+markdown: GFM
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
