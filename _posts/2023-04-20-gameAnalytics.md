@@ -1,6 +1,6 @@
 ---
 title: "Aetherea Architecture - Game Analytics - Insights into players 🧠"
-date: 2023-03-24
+date: 2023-04-20
 author: Fabian Albrecht
 ---
 ### Hello Adventurers,
