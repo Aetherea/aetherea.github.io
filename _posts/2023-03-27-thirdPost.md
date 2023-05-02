@@ -34,6 +34,6 @@ Since we estimated the time we will spend each week, here is a short summary of 
 - Tim: 23.25 hours over three weeks, which results in 7.75 hours / week
 - Fabian: 26.45 hours over three weeks, which results in 8.82 hours / week
 
-As a conclusion, the goal of 7-8 hours per week is reached by both of us and we made great progress. The tool we are using to track our time is git projects, where we open issues for everything we do and track our time on those tasks.
+As a conclusion, the goal of 6-7 hours per week is reached by both of us and we made great progress. The tool we are using to track our time is git projects, where we open issues for everything we do and track our time on those tasks.
 
 Thats it for this weeks blog, I hope you enjoyed the summary of our game and the little teaser. Hopefully we will have some music too very soon.

@@ -20,7 +20,7 @@ We understand the importance of customization in games, and we want our players 
 
 ### Time Commitment
 
-We' ve decided to dedicate an average of 7-8 hours per person per week over the semester to work on the game. This time includes brainstorming, programming, and playtesting. We believe that this time commitment will help us stay on track with our development schedule while ensuring that we produce a high-quality game.
+We' ve decided to dedicate an average of 6-7 hours per person per week over the semester to work on the game. This time includes brainstorming, programming, and playtesting. We believe that this time commitment will help us stay on track with our development schedule while ensuring that we produce a high-quality game.
 
 ### Demo Scope
 The Demo on the 24th of March will include a working player-enemy combat system in a sample level. The player will be able to fight against multiple enemies and use spells to defeat them. We'll also implement a system for spawning enemies, ensuring that the game stays challenging. Additionally, the camera movement, will be completed by this day. The spells will have cooldown timers to make the game more strategic, and we'll create a simple UI that displays e.g. the player's health.
