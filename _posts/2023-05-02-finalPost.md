@@ -51,7 +51,7 @@ We are very happy with the current state of Aetherea and we are exited to see ho
 - Tim: ~ 57,5 hours 
 - Fabian: ~ 56,5 hours
 
-For the 9 complete weeks that we had this semester this is a total of 114 hours resulting in a little bit more than 6 hours per Week. This means we reached our goal of 6 - 7 hours per week.
+For the 9 complete weeks that we had this semester this is a total of 114 hours resulting in a little bit more than 6 hours per Person per Week. This means we reached our goal of 6 - 7 hours per Person per week.
 
 If you have any feedback or ideas for improvement, please let us know. We are always happy to hear from you 😉!
 
