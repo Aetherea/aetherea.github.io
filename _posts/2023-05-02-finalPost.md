@@ -21,7 +21,7 @@ If you want to know more about the idea of Aetherea, you can find extensive info
 
 ### Download
 
-If you want to **download** and **install** Aetherea, you can do so in this section very shortly !
+If you want to **download** and **install** Aetherea, you can do so [here](https://drive.google.com/file/d/1wZ5M6fsjZ2__dwPAtznKx8UFyoezCLhz/view?usp=sharing)!
 
 ### Architecture
 
