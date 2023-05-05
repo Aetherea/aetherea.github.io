@@ -17,7 +17,10 @@ To bring this idea to life we decided for an 3d isometric view in our second blo
 
 We wanted that Aetherea poses a new challenge every time you play it, thus we implemented automatic level generation. This means that no two playthroughs will be the same as the rooms are randomly selected from a pool of different rooms. Rooms have different sizes and can contain different enemies. 
 
-If you want to know more about the idea of Aetherea, you can find extensive information [here](https://aetherea.github.io/firstPost/) and [here](https://aetherea.github.io/secondPost/).
+If you want to know more about the idea of Aetherea, you can find extensive information [here](https://aetherea.github.io/firstPost/) and [here](https://aetherea.github.io/secondPost/). Also have a look at the demo video to get yourself interested in our game!
+
+<video src="https://user-images.githubusercontent.com/85937078/236397182-0f008c0b-2941-4819-b885-42b476408b55.mp4" controls="controls" style="max-width: 730px;">
+</video>
 
 ### Download
 
